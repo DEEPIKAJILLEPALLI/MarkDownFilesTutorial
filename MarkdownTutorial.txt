@@ -1,0 +1,44 @@
+How to Write Markdown  files!
+Let’s do that…
+ Firstly , the _file extension_  should be  ** md ** 
+Are you wondering file extension became italic and md as bold!
+Let me tell you its secret…
+Haha , it’s the syntax…
+Okay, let’s together learn how to write  **  markdown files  **
+
+Headings
+ For adding headings in markdown files, mark down support 6 levels of formatting from level1 to level 6.
+# for level 1, ## level22, ### level 3 and so on.. up to 6.
+Note: there should be space before the header Text.
+
+Italic 
+For doing text in italic format underscore followed by text in between and underscore i.e
+( _sometext_ )
+
+Bold
+For doing text in bold format , you can surround words with two asterisks ( ** ) before and after the word.
+** bolded text **
+
+You can do both italic and bold at the same time
+_** text **_  or  **_ text_**
+
+Links
+There are two different link types in Markdown, but both of them render the exact same way.
+1.inline link : link text in  brackets ( ) and link in square brackets [ ]
+e.g:  2.reference link: link text in first square brackets [ ] and reference  in another square brackets [ ],
+The reference should be assigned with an link.
+e.g:  
+Images
+The syntax is similar to link, except exclamation at the beginning
+![alt](https://www.pexels.com/photo/scenic-view-of-beach-248797/)
+
+Blockquote
+To create a block quote, all you have to do is preface a line with the "greater than" caret (>). For example:
+ 
+Lists
+creating lists in Markdown
+•	To create an unordered list, you'll want to preface each item in the list with an asterisk ( * )
+•	An ordered list is prefaced with numbers
+Example: 
+Paragraphs
+
